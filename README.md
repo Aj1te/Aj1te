@@ -15,3 +15,4 @@ I'm open to share projects, to join a team to develop a game, an app, or anythin
 I'm looking to learn, try and test many things!!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=aj1te&show_icons=true&theme=blue-green)
