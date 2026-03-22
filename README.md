@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Julien!
 
-<!--
-**Aj1te/Aj1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 Web and Mobile Developer (Ecommerce, showcase sites, front and back end)<br/>
+👨🏻‍🎓 Advanced Vocational Diploma in Avignon (South of France)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾[My Portfolio](https://original-dev.fr/)<br/>
+
+
+🔭 Currently working on 2 differents showcase websites, and on my portfolio as well (don't hesitate to give me advices if you have any ^^<br/>
+🌱 I’m currently reinforcing my skills in Symfony (PHP), JS, HTML and CSS.<br/>
+
+💬 Ask me about anything you'll like to work on with me. <br/>
+I'm open to share projects, to join a team to develop a game, an app, or anything else!!<br/>
+I'm looking to learn, try and test many things!!
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
